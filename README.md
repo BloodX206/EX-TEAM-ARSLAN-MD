@@ -22,7 +22,7 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone https://github.com/BloodX206/EX-TEAM-WA-CRASHER
+git clone https://github.com/BloodX206/EX-TEAM-ARSLAN-MD
 ```
 ```bash
 cd WaCrasher
